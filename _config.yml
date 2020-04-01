@@ -1,17 +1,17 @@
 # Site settings
 title: Orange Blog
 SEOTitle: 三秋秋秋秋 | Orange Blog
-header-img: img/head1.JPG
+header-img: img/star2.JPG
 email: orangeJunxin@gmail.com
-description: "小舟从此逝，沧海寄余生"
-keyword: "三秋,data mining"
+description: "should be english..?"
+keyword: "data mining"
 url: "http://orangeJunxin.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/orangeJunxin/orangeJunxin.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "千灯万盏，我只有一轮月亮"
+sidebar-about-description: "im fine"
 sidebar-avatar: /img/star1.JPG     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
